@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jhhj424/NodeJs/issues"
   },
-  "homepage": "https://github.com/jhhj424/NodeJs#readme"
+  "homepage": "https://github.com/jhhj424/NodeJs#readme",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
 }
